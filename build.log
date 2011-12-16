@@ -10,7 +10,7 @@ Logfile initialized
 [DEBUG] com.studybuddy.helloworld installed? True
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying project resources..
-[TRACE] COPYING MODIFIED FILE: C:\Users\YouthStop Inc\My Documents\Titanium Studio Workspace\helloworld\Resources\app.js => C:\Users\YouthStop Inc\My Documents\Titanium Studio Workspace\helloworld\build\android\bin\assets\Resources\app.js
+[TRACE] COPYING MODIFIED FILE: C:\Users\YouthStop Inc\My Documents\Titanium Studio Workspace\helloworld\Resources\login.js => C:\Users\YouthStop Inc\My Documents\Titanium Studio Workspace\helloworld\build\android\bin\assets\Resources\login.js
 [INFO] Tiapp.xml unchanged, skipping class generation
 [DEBUG] Processing Android resource drawables
 [INFO] Waiting for SDCard to become available..
@@ -19,3 +19,4 @@ Logfile initialized
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.studybuddy.helloworld/.HelloworldActivity }
 Warning: Activity not started, its current task has been brought to the front
 
+[INFO] Relaunched helloworld ... Application should be running.
